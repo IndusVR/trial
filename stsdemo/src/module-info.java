@@ -1,2 +1,3 @@
 module stsdemo {
+	exports stsdemo;
 }
